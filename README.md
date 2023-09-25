@@ -7,3 +7,5 @@ containerized microservices architecture orchestrated using Amazon EC2 Container
 - [Part One: The base Node.js application](1-no-container/)
 - [Part Two: Moving the application to a container deployed using ECS](2-containerized/)
 - [Part Three: Breaking the monolith apart into microservices on ECS](3-microservices/)
+
+# 1st commit
